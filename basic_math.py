@@ -49,7 +49,7 @@ def get_smallest(number_list):
     """
     smallest_number = 0
     sorted_list = sorted(number_list)
-    greatest_number = sorted_list[0]
+    smallest_number = sorted_list[0]
     return smallest_number
 
 
